@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at Github.com/Varoxe [github.com/Varoxe](github.com/Varoxe)
 
-- 📫 How to reach me varoxeee <- Discord **varoxecoding@gmail.com**
+- 📫 How to reach me varoxeee <- Discord **varoxeee** or **varoxecoding@gmail.com**
 
 - ⚡ Fun fact **pip install jokes**
 
