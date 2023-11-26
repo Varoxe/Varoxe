@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/varoxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="varoxe" height="30" width="40" /></a>
 <a href="https://twitter.com/varoxe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varoxe1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/patrik wierer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrik wierer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/patrik-wierer-7b1970299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrik wierer" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20859457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20859457" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/varoxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="varoxe" height="30" width="40" /></a>
 </p>
