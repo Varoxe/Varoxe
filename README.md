@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varoxe" alt="varoxe" /></a> </p>
 
-- 👨‍💻 All of my projects are available at Github.com/Varoxe [github.com/Varoxe](github.com/Varoxe)
+- 👨‍💻 All of my projects are available at [github.com/Varoxe](github.com/Varoxe)
 
 - 📫 How to reach me Discord -> **varoxeee** or **varoxecoding@gmail.com**
 
